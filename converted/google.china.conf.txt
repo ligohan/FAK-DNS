@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/c.admob.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/c.android.clients.google.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/c.pki.goog/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/cache-management-prod.google.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/cache.pack.google.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/checkin.gstatic.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query

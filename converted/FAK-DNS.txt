@@ -217,6 +217,7 @@ https://1.0.0.1/dns-query
 [/itunes-apple.com.akadns.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/itunes.apple.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/itunesconnect.apple.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/mensura.cdn-apple.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/mesu-cdn.apple.com.akadns.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/mesu-china.apple.com.akadns.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/mesu.apple.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -14167,6 +14168,7 @@ https://1.0.0.1/dns-query
 [/azuiblc.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/azure-wave.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/azure.cc/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/azureflame.cloud/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/azureflying.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/azuremigrate.download.prss.microsoft.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/azuremigratetest.download.prss.microsoft.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -16755,6 +16757,7 @@ https://1.0.0.1/dns-query
 [/bjartmuseum.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/bjatv.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/bjbaidianfeng.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/bjbaifan.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/bjbalb.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/bjbaodao.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/bjbb.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -19192,6 +19195,7 @@ https://1.0.0.1/dns-query
 [/cangfengzhe.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/canghaiip.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/canghaimachine.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/cangjggame.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/canglanghospital.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/cangmang.xyz/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/cangoonline.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -20812,6 +20816,7 @@ https://1.0.0.1/dns-query
 [/chachengji.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/chacihai.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/chacuo.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/chadaodao.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/chadianhua.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/chadoc.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/chaej.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -34724,6 +34729,7 @@ https://1.0.0.1/dns-query
 [/feiersmart.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/feifandesign.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/feifanindustry.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/feifanmi.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/feifantxt.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/feifantxt.net/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/feifdx.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -75392,6 +75398,7 @@ https://1.0.0.1/dns-query
 [/qingnianlvxing.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/qingniantuzhai.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/qingnianwang.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/qingning88.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/qingpanduola.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/qingpin.vip/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/qingping.co/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
@@ -92394,6 +92401,7 @@ https://1.0.0.1/dns-query
 [/uniow.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/unipack-tech.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/uniproud.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
+[/unisapps.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/uniscope.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/unisdigital.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
 [/unisedu.com/]https://120.53.53.53/dns-query https://1.12.12.12/dns-query https://doh.360.cn/dns-query https://dns.alidns.com/dns-query
